@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Design and Frontend development**
 
-- 👨‍💻 All of my projects are available at [kfajarbowo.github.io](kfajarbowo.github.io)
+- 👨‍💻 All of my projects are available at [https://kfajarbowo.github.io/](kfajarbowo.github.io)
 
 - 📝 I regulary write articles on [https://web.facebook.com/kfajarbowo](https://web.facebook.com/kfajarbowo)
 
@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **kfajarbowo12@gmail.com**
 
-- 📄 Know about my experiences [kfajarbowo.github.io](kfajarbowo.github.io)
+- 📄 Know about my experiences [https://kfajarbowo.github.io/](kfajarbowo.github.io)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
