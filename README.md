@@ -1,4 +1,4 @@
-<h1 align="center">Hello 👋 My name Kidung Fajar Prabowo</h1>
+<h2 align="center">Hello 👋 My name Kidung Fajar Prabowo</h2>
 <h3 align="center">I am currently learning my skills in the programming world, especially Front End Web Developer</h3>
 
 - 🌱 I’m currently learning **Design and Frontend development**
