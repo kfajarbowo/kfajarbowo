@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available at [kfajarbowo.github.io](https://kfajarbowo.github.io/)
 
-- 📝 I regulary write articles on [https://web.facebook.com/kfajarbowo](https://web.facebook.com/kfajarbowo)
+- 📝 I regulary write articles on [facebook.com/kfajarbowo](https://web.facebook.com/kfajarbowo)
 
 - 💬 Ask me about **UI/UX and Frontend Web**
 
