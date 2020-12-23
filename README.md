@@ -1,18 +1,13 @@
-<h2 align="center">Hello 👋 My name Kidung Fajar Prabowo</h2>
+<h2 align="left">Hi All! 👋</h2>
 
 <img align="right" width="360" height="240" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 
-- 🌱 I’m currently learning **Design and Frontend development**
+- 📄 Know about my experiences at [my personal website](https://kfajarbowo.github.io/)
+- 🌱 I’m currently learning **UI/UX and Frontend development**
 
-- 👨‍💻 All of my projects are available at [kfajarbowo.github.io](https://kfajarbowo.github.io/)
-
-- 📝 I regulary write articles on [facebook.com/kfajarbowo](https://web.facebook.com/kfajarbowo)
-
-- 💬 Ask me about **UI/UX and Frontend Web**
+- 💥 **UI/UX and Frontend Web** Enthusiast
 
 - 📫 How to reach me **kfajarbowo12@gmail.com**
-
-- 📄 Know about my experiences [kfajarbowo.github.io](https://kfajarbowo.github.io/)
 
 <h3 align="left">Languages and Tools:</h3>
 
