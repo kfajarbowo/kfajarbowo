@@ -5,7 +5,7 @@
 - 📄 Know about my experiences at [my personal website](https://kfajarbowo.github.io/)
 - 🌱 I’m currently learning **UI/UX and Frontend development**
 
-- 💥 **UI/UX and Frontend Web** Enthusiast
+- 💥 **UI/UX and Frontend Enthusiast
 
 - 📫 How to reach me **kfajarbowo12@gmail.com**
 
