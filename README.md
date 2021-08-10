@@ -16,7 +16,7 @@
 - PHP
 - Laravel
 - Vue
-- MySQL/Postgre
+- React
 - Git
 - Figma
 
