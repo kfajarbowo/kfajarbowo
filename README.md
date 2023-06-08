@@ -7,7 +7,7 @@
 
 <!-- <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kfajarbowo&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&exclude_repo=things-bin-aws&hide=hcl,html,css,less,scss,jupyter%20notebook,blade,pug" /> -->
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kfajarbowo&show_icons=true&theme=transparent)
+[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=kfajarbowo&show_icons=true&theme=dark#gh-dark-mode-only)]
 
 [![@r17x's Holopin board](https://holopin.io/api/user/board?user=kfajarbowo)](https://holopin.io/@kfajarbowo)
 
